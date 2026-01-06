@@ -18,4 +18,4 @@ Futuras melhorias podem incluir histórico de cálculos e evolução para POO
 
 
 ### 📄 Licença
-MIT License - Copyright (c) 2025 Anderson Azola
+MIT License - Copyright (c) 2026 Anderson Azola
